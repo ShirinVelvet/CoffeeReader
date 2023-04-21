@@ -1,2 +1,2 @@
 # CoffeeReader
-In its v1 form, a epub reader.
+In its v1 form, an epub reader.
